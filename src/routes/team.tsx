@@ -20,7 +20,7 @@ export const Route = createFileRoute("/team")({
 const team = [
   { name: "Léa Marchand", role: "Creative Director", years: "16 yrs", spec: "Sculptural cut · editorial", img: s1 },
   { name: "Anders Vell", role: "Master Stylist", years: "12 yrs", spec: "Men's grooming · texture", img: s2 },
-  { name: "Iris Halden", role: "Lead Colourist", years: "9 yrs", spec: "Botanic colour · tonal craft", img: s3 },
+  { name: "Iris Halden", role: "Hairstylist", years: "9 yrs", spec: "Botanic colour · tonal craft", img: s3 },
   { name: "Noor Eliassen", role: "Senior Stylist", years: "8 yrs", spec: "Genderless cut · short hair", img: s4 },
 ];
 
