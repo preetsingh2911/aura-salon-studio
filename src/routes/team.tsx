@@ -1,9 +1,9 @@
 import { createFileRoute } from "@tanstack/react-router";
 import { Reveal } from "../components/Reveal";
-import s1 from "../assets/stylist-1.jpg";
-import s2 from "../assets/stylist-2.jpg";
-import s3 from "../assets/stylist-3.jpg";
-import s4 from "../assets/stylist-4.jpg";
+import s1 from "../assets/stylist-1.png";
+import s2 from "../assets/stylist-2.png";
+import s3 from "../assets/stylist-3.png";
+import s4 from "../assets/stylist-4.png";
 
 export const Route = createFileRoute("/team")({
   head: () => ({

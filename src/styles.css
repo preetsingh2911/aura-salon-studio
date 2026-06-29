@@ -203,3 +203,5 @@
 @utility hero-scale {
   animation: scale-reveal 1.4s cubic-bezier(0.2, 0.8, 0.2, 1) both;
 }
+
+#lovable-badge, .lovable-badge, [data-lovable-badge], [id^='lovable-badge'] { display: none !important; }
